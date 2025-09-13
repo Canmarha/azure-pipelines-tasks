@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "^17.0.0",
+    "@octokit/rest": "^22.0.0",
     "azure-pipelines-task-lib": "^4.17.2",
     "semver": "^7.6.3"
   }
