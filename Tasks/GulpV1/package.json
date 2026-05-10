@@ -20,7 +20,7 @@
     "@types/node": "^24.10.0",
     "@types/q": "^1.0.7",
     "azure-pipelines-task-lib": "^5.2.4",
-    "minimatch": "^4.0.0"
+    "minimatch": "^4.2.5"
   },
   "devDependencies": {
     "typescript": "^5.7.2"
