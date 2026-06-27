@@ -39,7 +39,7 @@
     "agent-base": "^6.0.2",
     "azure-devops-node-api": "^12.2.0",
     "fast-xml-parser": "^4.5.4",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.2.0",
     "minimatch": "^3.1.5",
     "minimist": "^1.2.8",
     "mocha": "^11.7.2",
