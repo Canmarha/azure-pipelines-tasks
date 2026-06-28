@@ -22,7 +22,7 @@
     "@types/mocha": "^5.2.7",
     "@types/node": "^20.3.1",
     "appcenter-file-upload-client-node": "1.0.0",
-    "azure-pipelines-task-lib": "^4.0.0-preview",
+    "azure-pipelines-task-lib": "^4.17.3",
     "@azure/storage-blob": "^12.10.0",
     "jszip": "^3.10.0",
     "typed-rest-client": "^1.8.9"
@@ -31,6 +31,6 @@
     "typescript": "5.1.6"
   },
   "overrides": {
-    "form-data": "^4.0.4"
+    "form-data": "^4.0.6"
   }
 }
